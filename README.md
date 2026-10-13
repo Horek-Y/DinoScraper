@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 python scraper.py
 python analysis.py
-
+#.
 ## Результат
 - CSV-файл с динозаврами в `data/`
 - Картинка с графиком в `reports/`
